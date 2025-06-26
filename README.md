@@ -15,7 +15,7 @@
 - Backend: PHP, Java  
 - Database: MySQL  
 - Programming Languages: Python, Java, C, C++  
-- Tools: Git, VS Code, Figma
+- Tools: Git, VS Code
 
 ---
 
