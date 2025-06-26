@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Dinesh</h1>
 <h3 align="center">Full Stack Developer & Web Designer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="200px" alt="Rotating Cube" />
-</p>
 
 ---
 
