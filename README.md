@@ -1,49 +1,48 @@
-# 👋 Hi, I'm M. Dinesh
+<h1 align="center">Hi 👋, I'm M. Dinesh</h1>
+<h3 align="center">Full Stack Developer & Web Designer</h3>
 
-🎓 I'm a B.Tech CSE student at MVGR College of Engineering (Expected graduation: 2026), passionate about building full-stack applications, AI tools, and modern web solutions.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & DB**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Programming**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="200px" alt="Rotating Cube" />
+</p>
 
 ---
 
-## 🚀 Projects
-
-- **🔹 Lawyer Consultancy Website** – Full-stack web application for booking and managing lawyer consultations  
-  *Tech:* HTML, CSS, JS, PHP, MySQL
-
-- **🔹 Detection Management System** – Java full-stack application to manage detection systems  
-  *Tech:* Java, JSP/Servlets
-
-- **🔹 Translation Tool using AIML** – AI-based translation assistant  
-  *Tech:* Python, AIML
+💻 I'm a passionate Computer Science & Engineering student  
+🔧 I build scalable web apps and tools using modern tech stacks  
+🚀 Constantly learning and exploring full-stack development and AI tools  
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 Email: metikotidinesh45@gmail.com  
-- 💼 Resume: [Download Resume](https://github.com/your-username/resume.pdf) *(Upload it to your GitHub repo)*  
-- 🌐 Portfolio: *(Add if available)*
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: PHP, Java  
+- Database: MySQL  
+- Programming Languages: Python, Java, C, C++  
+- Tools: Git, VS Code, Figma
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 💼 Projects
 
+- 🔗 [Lawyer Consultancy Website](https://github.com/dinesh-0725/layer)  
+  *Full-stack booking system using PHP & MySQL*
+
+- 💡 Detection Management System  
+  *Workflow tool developed using Java*
+
+- 🧠 Translation Tool using AIML  
+  *Basic phrase interpreter using Python & AIML*
+
+---
+
+### 📫 Connect with me
+
+- 📧 Email: [metikotidinesh45@gmail.com](mailto:metikotidinesh45@gmail.com)  
+- 🔗 GitHub: [github.com/dinesh-0725](https://github.com/dinesh-0725)  
+- 💻 HackerRank: [hackerrank.com/metikotidinesh45](https://www.hackerrank.com/metikotidinesh45)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-0725&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
