@@ -24,7 +24,7 @@
 - 🔗 [Lawyer Consultancy Website](https://github.com/dinesh-0725/layer)  
   *Full-stack booking system using PHP & MySQL*
 
-- 💡 Defect Management System  
+- 💡 Defect Handling
   *Workflow tool developed using Java*
 
 - 🧠 Translation Tool using AIML  
