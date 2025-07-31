@@ -1,4 +1,4 @@
-<h1 align="center">hii  I'm  Dinesh Metikoti</h1>
+<h1 align="center">HELLO,    I'm  Dinesh Metikoti</h1>
 <h3 align="center">Full Stack Developer & Web Designer</h3>
 
 
