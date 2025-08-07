@@ -1,27 +1,35 @@
-<h1 align="center">👋 HELLO, I'm <span style="color:#0af">Dinesh Metikoti</span></h1>
-<h3 align="center">💻 Full Stack Developer & Web Designer 🌐</h3>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/k1v8XqT.gif" width="100%" alt="banner" />
+</p>
+
+<h1 align="center">✨ Hello World! I'm <span style="color:#0af"><b>Dinesh Metikoti</b></span> 👨‍💻</h1>
+<h3 align="center">💻 Full Stack Developer • 🌐 Web Designer • 📘 CSE Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+Love+Coding;Full+Stack+Developer;Always+Learning+Something+New!&center=true&color=00FFFF&width=380&height=45">
+</p>
 
 ---
 
-🚀 **About Me**
+## 🚀 About Me
 
-- 🎓 I'm a passionate **Computer Science & Engineering** student  
-- 🛠️ I build **scalable web apps** and tools using **modern tech stacks**  
-- 🌱 Currently learning and exploring **Full-Stack Development** & **AI Tools**
-
----
-
-### 🛠️ Tech Stack
-
-| Category       | Tools/Technologies                                      |
-|----------------|----------------------------------------------------------|
-| 🎨 Frontend    | HTML, CSS, JavaScript, React.js                          |
-| 🧩 Backend     | PHP, Java                                                 |
-| 🗄️ Database    | MySQL                                                     |
-| 💻 Languages   | Python, Java, C, C++                                      |
-| ⚙️ Tools       | Git, VS Code                                              |
+- 🎓 Passionate **Computer Science & Engineering** student  
+- 💻 Love building full-stack web apps & smart tools  
+- 🌱 Exploring **AI**, **DevOps**, and **modern frontend frameworks**  
+- ⚡ Always hungry to learn and create meaningful software
 
 ---
+
+## 🛠️ Tech Stack
+
+```bash
+💻 Languages:        Python | Java | C | C++
+🎨 Frontend:         HTML | CSS | JavaScript | React.js
+🧩 Backend:          PHP | Java (Servlets, JSP)
+🗄️ Database:         MySQL
+🔧 Tools & Platforms: Git | GitHub | VS Code | Postman
+
 
 ### 💼 Projects
 
