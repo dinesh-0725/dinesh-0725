@@ -1,66 +1,99 @@
-<h1 align="center">👋 Hello, I'm <b>Dinesh Metikoti</b></h1>
-<h3 align="center">💻 Full Stack Developer | 🎨 Web Designer | 🎓 CSE Student</h3>
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#00FFFF;">Dinesh Metikoti</span>
+</h1>
+<h3 align="center">💻 Full Stack Developer | 🎨 Designer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Designer;AI+Enthusiast;Problem+Solver;Always+Learning...&center=true&color=00FFFF&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer%20%F0%9F%92%BB;Problem%20Solver%20%E2%9C%8C%EF%B8%8F;Tech%20Explorer%20%F0%9F%9A%80;Always%20Learning%20%F0%9F%93%9A&center=true&width=400&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 👨‍🎓 Final Year Computer Science & Engineering Student  
-- 🧠 Passionate about building creative and scalable full-stack applications  
-- 🔥 Interested in Web Development, AI tools, and automation  
-- 🚀 Always curious to learn, build, and improve
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Java, Python, C, C++  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Java (Servlets, JSP), PHP  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code, Postman
+- 🎓 Final Year CSE Student from India  
+- 🧩 Exploring Full Stack Development and Cloud  
+- 🎯 Currently focused on **React + Spring Boot + System Design**  
+- 📚 Love building projects and solving LeetCode/HackerRank problems  
+- 🤝 Open to collaborations in **Java / React projects**
 
 ---
 
-## 💼 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🧑‍⚖️ Lawyer Consultancy Website](https://github.com/dinesh-0725/layer) | Full-stack booking system for clients | PHP, MySQL |
-| [🔧 Defect Handling Tool](https://github.com/dinesh-0725/Defect-Handling.git) | Java-based defect tracking tool | Java, JSP |
-| [🤖 Chat Bot Application](https://github.com/dinesh-0725/chat-application.git) | AIML-based chatbot for FAQs | Python, AIML |
-
-
----
-
-## 🌐 Connect With Me
+## 🧰 My Toolbox
 
 <p align="center">
-  <a href="mailto:metikotidinesh45@gmail.com"><img src="https://img.shields.io/badge/Email-metikotidinesh45-blue?style=for-the-badge&logo=gmail"></a>
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,bootstrap,php,python,mysql,oracle,spring,git,vscode,github,figma" />
+</p>
+
+---
+
+## 🚀 Projects
+
+| Name | Description | Tech Stack |
+|------|-------------|------------|
+| 🔧 [Defect Handling Tool](https://github.com/dinesh-0725/Defect-Handling) | Admin + Mechanic web app to report, update, and track faults | Java, JSP, Oracle SQL |
+| 🧑‍⚖️ [Lawyer Consultancy Site](https://github.com/dinesh-0725/layer) | Book appointments with lawyers | PHP, MySQL |
+| 🤖 [AI Chatbot](https://github.com/dinesh-0725/chat-application) | Rule-based customer support bot | Python, AIML |
+
+
+---
+
+## 🌐 Profiles
+
+<p align="center">
+  <a href="mailto:metikotidinesh45@gmail.com"><img src="https://img.shields.io/badge/Gmail-metikotidinesh45-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/dinesh-0725"><img src="https://img.shields.io/badge/GitHub-dinesh--0725-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/u/venky_/"><img src="https://img.shields.io/badge/LeetCode-venky__-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://leetcode.com/u/venky_/"><img src="https://img.shields.io/badge/LeetCode-venky__-FFA116?style=for-the-badge&logo=leetcode"></a>
   <a href="https://www.hackerrank.com/metikotidinesh45"><img src="https://img.shields.io/badge/HackerRank-metikotidinesh45-brightgreen?style=for-the-badge&logo=hackerrank"></a>
-</p>
+
 
 ---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 HackerRank Java (Gold)  
+- 🥈 SQL & Problem Solving Intermediate  
+- 📜 Infosys Springboard Certifications  
+- 🧑‍💻 Cisco Certifications (Networking Basics, Cybersecurity Essentials)  
+- 🏭 Full Stack Java Internship Certification – Steel Plant  
+- 🐍 Python Programming Certification – HMI Institute
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-0725&show_icons=true&theme=tokyonight&border_radius=8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-0725&theme=tokyonight&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-0725&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-0725&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-0725&layout=compact&theme=tokyonight&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-0725&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 ---
 
+## 🧠 Fun Facts
+
+- 🥤 I code best with chai and headphones on  
+- 💡 I believe: “Consistency beats intensity”  
+- 🧘‍♂️ I sometimes debug in my dreams 😅  
+- 🛠 I break stuff just to fix it again (classic dev vibe)
+
+---
+
+## 📈 Visitor Count
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=dinesh-0725&style=for-the-badge&color=blue">
 </p>
+
+---
+
+## 📬 Contact Me
+
+📧 Email: metikotidinesh45@gmail.com  
+💼 Portfolio: https://dinesh-0725.github.io/portfolio/
+---
+
+> ✨ _“Push yourself, because no one else is going to do it for you.”_
+
