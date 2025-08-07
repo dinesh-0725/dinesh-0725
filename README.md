@@ -33,9 +33,7 @@
 | [🧑‍⚖️ Lawyer Consultancy Website](https://github.com/dinesh-0725/layer) | Full-stack booking system for clients | PHP, MySQL |
 | [🔧 Defect Handling Tool](https://github.com/dinesh-0725/Defect-Handling.git) | Java-based defect tracking tool | Java, JSP |
 | [🤖 Chat Bot Application](https://github.com/dinesh-0725/chat-application.git) | AIML-based chatbot for FAQs | Python, AIML |
-| 🗃️ Inventory Management System *(Private)* | Manages restaurant inventory roles | Java, JSP, Oracle SQL |
-| 📈 Stock Market Analyzer *(Coming Soon)* | Tracks stock insights with graphs | React, Spring Boot |
-| 🍽️ Online Food Ordering *(Coming Soon)* | Food order web app with cart & auth | React, Node.js |
+
 
 ---
 
