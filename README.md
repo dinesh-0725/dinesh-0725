@@ -40,12 +40,14 @@
 
 ## 🌐 Profiles
 
+
 <p align="center">
   <a href="mailto:metikotidinesh45@gmail.com"><img src="https://img.shields.io/badge/Gmail-metikotidinesh45-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/dinesh-0725"><img src="https://img.shields.io/badge/GitHub-dinesh--0725-black?style=for-the-badge&logo=github"></a>
   <a href="https://leetcode.com/u/venky_/"><img src="https://img.shields.io/badge/LeetCode-venky__-FFA116?style=for-the-badge&logo=leetcode"></a>
   <a href="https://www.hackerrank.com/metikotidinesh45"><img src="https://img.shields.io/badge/HackerRank-metikotidinesh45-brightgreen?style=for-the-badge&logo=hackerrank"></a>
-
+  <a href="https://www.linkedin.com/in/dinesh-metikoti-9b1955278"><img src="https://img.shields.io/badge/LinkedIn-Dinesh-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
 ---
 
