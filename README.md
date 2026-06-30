@@ -94,7 +94,7 @@
 ## 📬 Contact Me
 
 📧 Email: metikotidinesh45@gmail.com  
-💼 Portfolio: https://dinesh-0725.github.io/portfolio/
+💼 Portfolio: https://myportfolio-lyart-ten-60.vercel.app/
 ---
 
 > ✨ _“Push yourself, because no one else is going to do it for you.”_
