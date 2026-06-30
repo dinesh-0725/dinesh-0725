@@ -22,7 +22,11 @@
 ## 🧰 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,bootstrap,php,python,mysql,oracle,spring,git,vscode,github,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,mysql,spring,django,html,css,bootstrap,javascript,react,vite,mongodb,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
