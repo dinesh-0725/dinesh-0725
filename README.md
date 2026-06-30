@@ -19,16 +19,58 @@
 
 ---
 
-## 🧰 My Toolbox
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,mysql,spring,django,html,css,bootstrap,javascript,react,vite,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,django,php" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 Data Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
+---
 ---
 
 ## 🚀 Projects
