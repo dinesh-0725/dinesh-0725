@@ -11,9 +11,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final Year CSE Student from India  
+- 🎓 Completed Engineering in CSE from India  
 - 🧩 Exploring Full Stack Development and Cloud  
-- 🎯 Currently focused on **React + Spring Boot + System Design**  
+- 🎯 Currently focused on **React + Spring Boot +SQL + System Design or React + DJANGO + Mongo DB + System Design **  
 - 📚 Love building projects and solving LeetCode/HackerRank problems  
 - 🤝 Open to collaborations in **Java / React projects**
 
